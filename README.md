@@ -1,20 +1,24 @@
-> [!WARNING]
-> 本工具純屬作者無聊產物，用來測試與娛樂。  
-> 沒有保證能用，也沒有每間學校都試過。  
->  
-> 目前只支援「電腦版瀏覽器」且為「數字點名」。  
->  
-> ✅ 已成功：
-> - 國立臺灣海洋大學 (數字)
-> - 天主教輔仁大學 (數字)
-> - 東海大學 (數字)
-> - 大同大學 (數字)
-> - 淡江大學 (數字)
-> - 東吳大學 (數字)
-> - 虎尾科技大學 (數字)
-> - 弘光科技大學 (數字)
->
-> ❓ 其他學校：祝你好運，自己試
+# TronClass Attendance Extension
+
+A Chrome Extension designed to simplify attendance check-in workflows on the TronClass learning platform.
+
+## Features
+
+- Automated attendance check-in
+- Browser extension interface
+- Lightweight and easy to install
+- Compatible with modern Chromium-based browsers
+
+## Technologies
+
+- JavaScript
+- Chrome Extension API
+- HTML
+- CSS
+
+## Motivation
+
+This project was developed to explore browser automation techniques and improve workflow efficiency for online learning platforms.
 >
 > 如有其他功能需求，歡迎私訊討論。
 
